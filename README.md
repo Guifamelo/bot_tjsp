@@ -1,8 +1,8 @@
 # bot_tjsp
-Web Scraping para o Tribunal de Justiça Estado São Paulo
+Web Scraping for Tribunal de Justiça Estado São Paulo (São Paulo State Court of Justice)
 
-Consulta de processos do 1° Grau 
+ Consultation of 1st degree processes 
 
-Este serviço disponibiliza acesso às informações relativas à situação e tramitação dos processos de Primeiro e Segundo Grau. O acesso aos dados pode ser feito pelo público em geral, sem necessidade de cadastro. Existem restrições apenas para a consulta de processos que tramitam em segredo de justiça.
+ This service provides access to information regarding the status and processing of First and Second Degree processes. Access to data can be done by the general public, without the need for registration. There are restrictions only for the consultation of processes that are processed in secrecy of justice.
 
-# Consultar por: Ducumento da parte (cpf, rg, cnpj)
+# Query by: identification document (cpf, rg, cnpj)
